@@ -1,0 +1,5 @@
+S3method(plot, BML)
+S3method(summary, BML)
+useDynLib(traffic3)
+export(BML, Flag.Blocked.Move, Move, Speed.Calc)
+export(moveC)
