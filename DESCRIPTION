@@ -1,4 +1,4 @@
-Package: JacobBML
+Package: traffic3
 Type: Package
 Title: Basic way to deal with simple BML traffic grids
 Version: 0.12
